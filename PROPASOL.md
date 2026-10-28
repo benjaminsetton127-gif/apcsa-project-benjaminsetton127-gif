@@ -1,4 +1,4 @@
-# [Project Name]
+# schedule tracker
 ## The problem
 [2–3 sentences. What's annoying or hard right now? Who has this problem?]
 ## The user
