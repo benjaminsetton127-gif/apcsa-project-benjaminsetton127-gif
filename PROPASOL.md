@@ -1,6 +1,6 @@
 # schedule tracker
 ## The problem
-[2–3 sentences. What's annoying or hard right now? Who has this problem?]
+the problem is the people sometimes forget what they are doing 
 ## The user
 [Who specifically uses this? "Me" is a valid answer if you're honest about it.]
 ## What it does
